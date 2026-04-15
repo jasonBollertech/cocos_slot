@@ -1,0 +1,286 @@
+
+amg_spell.png
+size: 856,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/spell_p/spell_p_01
+  rotate: false
+  xy: 287, 18
+  size: 47, 71
+  orig: 111, 348
+  offset: 30, 206
+  index: -1
+img/spell_p/spell_p_02
+  rotate: false
+  xy: 462, 16
+  size: 46, 177
+  orig: 111, 348
+  offset: 33, 112
+  index: -1
+img/spell_p/spell_p_03
+  rotate: false
+  xy: 377, 195
+  size: 46, 199
+  orig: 111, 348
+  offset: 33, 101
+  index: -1
+img/spell_p/spell_p_04
+  rotate: true
+  xy: 74, 2
+  size: 44, 211
+  orig: 111, 348
+  offset: 33, 67
+  index: -1
+img/spell_p/spell_p_05
+  rotate: false
+  xy: 138, 169
+  size: 47, 225
+  orig: 111, 348
+  offset: 32, 37
+  index: -1
+img/spell_p/spell_p_06
+  rotate: false
+  xy: 282, 185
+  size: 45, 209
+  orig: 111, 348
+  offset: 32, 33
+  index: -1
+img/spell_p/spell_p_07
+  rotate: false
+  xy: 344, 5
+  size: 57, 187
+  orig: 111, 348
+  offset: 23, 24
+  index: -1
+img/spell_p/spell_p_08
+  rotate: false
+  xy: 558, 20
+  size: 57, 174
+  orig: 111, 348
+  offset: 23, 24
+  index: -1
+img/spell_p/spell_p_09
+  rotate: true
+  xy: 674, 328
+  size: 66, 173
+  orig: 111, 348
+  offset: 17, 25
+  index: -1
+img/spell_p/spell_p_10
+  rotate: true
+  xy: 674, 188
+  size: 70, 166
+  orig: 111, 348
+  offset: 15, 26
+  index: -1
+img/spell_p/spell_p_11
+  rotate: false
+  xy: 473, 196
+  size: 69, 198
+  orig: 111, 348
+  offset: 15, 27
+  index: -1
+img/spell_p/spell_p_12
+  rotate: false
+  xy: 2, 168
+  size: 66, 226
+  orig: 111, 348
+  offset: 16, 29
+  index: -1
+img/spell_p/spell_p_13
+  rotate: false
+  xy: 74, 48
+  size: 66, 118
+  orig: 111, 348
+  offset: 16, 31
+  index: -1
+img/spell_p/spell_p_14
+  rotate: false
+  xy: 277, 91
+  size: 65, 90
+  orig: 111, 348
+  offset: 20, 37
+  index: -1
+img/spell_p/spell_p_15
+  rotate: false
+  xy: 617, 78
+  size: 56, 67
+  orig: 111, 348
+  offset: 29, 36
+  index: -1
+img/spell_p/spell_p_16
+  rotate: true
+  xy: 675, 129
+  size: 57, 65
+  orig: 111, 348
+  offset: 29, 37
+  index: -1
+img/spell_p/spell_p_17
+  rotate: true
+  xy: 675, 44
+  size: 46, 44
+  orig: 111, 348
+  offset: 32, 37
+  index: -1
+img/spell_p/spell_p_18
+  rotate: true
+  xy: 809, 140
+  size: 46, 45
+  orig: 111, 348
+  offset: 32, 36
+  index: -1
+img/spell_p/spell_p_19
+  rotate: false
+  xy: 721, 36
+  size: 45, 45
+  orig: 111, 348
+  offset: 33, 36
+  index: -1
+img/spell_p/spell_p_20
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+img/spell_r/spell_r_20
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+img/spell_r/spell_r_01
+  rotate: false
+  xy: 617, 147
+  size: 47, 71
+  orig: 111, 348
+  offset: 30, 206
+  index: -1
+img/spell_r/spell_r_02
+  rotate: false
+  xy: 510, 17
+  size: 46, 177
+  orig: 111, 348
+  offset: 33, 112
+  index: -1
+img/spell_r/spell_r_03
+  rotate: false
+  xy: 425, 195
+  size: 46, 199
+  orig: 111, 348
+  offset: 33, 101
+  index: -1
+img/spell_r/spell_r_04
+  rotate: false
+  xy: 236, 183
+  size: 44, 211
+  orig: 111, 348
+  offset: 33, 67
+  index: -1
+img/spell_r/spell_r_05
+  rotate: false
+  xy: 187, 170
+  size: 47, 224
+  orig: 111, 348
+  offset: 32, 37
+  index: -1
+img/spell_r/spell_r_06
+  rotate: false
+  xy: 329, 194
+  size: 46, 200
+  orig: 111, 348
+  offset: 32, 33
+  index: -1
+img/spell_r/spell_r_07
+  rotate: false
+  xy: 403, 7
+  size: 57, 186
+  orig: 111, 348
+  offset: 23, 24
+  index: -1
+img/spell_r/spell_r_08
+  rotate: false
+  xy: 615, 220
+  size: 57, 174
+  orig: 111, 348
+  offset: 23, 24
+  index: -1
+img/spell_r/spell_r_09
+  rotate: true
+  xy: 674, 260
+  size: 66, 173
+  orig: 111, 348
+  offset: 17, 25
+  index: -1
+img/spell_r/spell_r_10
+  rotate: false
+  xy: 2, 5
+  size: 70, 161
+  orig: 111, 348
+  offset: 15, 26
+  index: -1
+img/spell_r/spell_r_11
+  rotate: false
+  xy: 544, 196
+  size: 69, 198
+  orig: 111, 348
+  offset: 15, 27
+  index: -1
+img/spell_r/spell_r_12
+  rotate: false
+  xy: 70, 168
+  size: 66, 226
+  orig: 111, 348
+  offset: 16, 29
+  index: -1
+img/spell_r/spell_r_13
+  rotate: false
+  xy: 142, 49
+  size: 66, 118
+  orig: 111, 348
+  offset: 16, 31
+  index: -1
+img/spell_r/spell_r_14
+  rotate: false
+  xy: 210, 67
+  size: 65, 101
+  orig: 111, 348
+  offset: 20, 37
+  index: -1
+img/spell_r/spell_r_15
+  rotate: false
+  xy: 617, 9
+  size: 56, 67
+  orig: 111, 348
+  offset: 29, 36
+  index: -1
+img/spell_r/spell_r_16
+  rotate: true
+  xy: 742, 129
+  size: 57, 65
+  orig: 111, 348
+  offset: 29, 37
+  index: -1
+img/spell_r/spell_r_17
+  rotate: false
+  xy: 721, 83
+  size: 46, 44
+  orig: 111, 348
+  offset: 32, 37
+  index: -1
+img/spell_r/spell_r_18
+  rotate: true
+  xy: 809, 92
+  size: 46, 45
+  orig: 111, 348
+  offset: 32, 36
+  index: -1
+img/spell_r/spell_r_19
+  rotate: false
+  xy: 768, 36
+  size: 45, 45
+  orig: 111, 348
+  offset: 33, 36
+  index: -1

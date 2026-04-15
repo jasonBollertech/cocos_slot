@@ -1,0 +1,258 @@
+
+amg_c1.png
+size: 581,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/bg_shine_2
+  rotate: false
+  xy: 2, 395
+  size: 187, 184
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+img/hu
+  rotate: false
+  xy: 2, 212
+  size: 166, 181
+  orig: 188, 188
+  offset: 12, 3
+  index: -1
+img/hu_glow
+  rotate: false
+  xy: 102, 121
+  size: 81, 89
+  orig: 94, 94
+  offset: 7, 2
+  index: -1
+img/hu_glow2
+  rotate: false
+  xy: 2, 35
+  size: 87, 90
+  orig: 94, 94
+  offset: 1, 2
+  index: -1
+img/shine
+  rotate: false
+  xy: 191, 438
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1
+img/starfx/starfx_000
+  rotate: false
+  xy: 263, 33
+  size: 62, 74
+  orig: 169, 301
+  offset: 50, 108
+  index: -1
+img/starfx/starfx_030
+  rotate: false
+  xy: 263, 33
+  size: 62, 74
+  orig: 169, 301
+  offset: 50, 108
+  index: -1
+img/starfx/starfx_001
+  rotate: false
+  xy: 420, 337
+  size: 58, 77
+  orig: 169, 301
+  offset: 53, 109
+  index: -1
+img/starfx/starfx_002
+  rotate: true
+  xy: 170, 213
+  size: 60, 77
+  orig: 169, 301
+  offset: 53, 110
+  index: -1
+img/starfx/starfx_003
+  rotate: false
+  xy: 418, 261
+  size: 73, 74
+  orig: 169, 301
+  offset: 51, 109
+  index: -1
+img/starfx/starfx_004
+  rotate: true
+  xy: 409, 30
+  size: 72, 79
+  orig: 169, 301
+  offset: 52, 109
+  index: -1
+img/starfx/starfx_005
+  rotate: true
+  xy: 327, 33
+  size: 71, 80
+  orig: 169, 301
+  offset: 53, 109
+  index: -1
+img/starfx/starfx_006
+  rotate: false
+  xy: 429, 416
+  size: 69, 79
+  orig: 169, 301
+  offset: 55, 110
+  index: -1
+img/starfx/starfx_007
+  rotate: false
+  xy: 263, 188
+  size: 67, 78
+  orig: 169, 301
+  offset: 56, 111
+  index: -1
+img/starfx/starfx_008
+  rotate: false
+  xy: 480, 337
+  size: 71, 77
+  orig: 169, 301
+  offset: 51, 112
+  index: -1
+img/starfx/starfx_009
+  rotate: false
+  xy: 417, 185
+  size: 78, 74
+  orig: 169, 301
+  offset: 43, 114
+  index: -1
+img/starfx/starfx_010
+  rotate: false
+  xy: 170, 275
+  size: 84, 81
+  orig: 169, 301
+  offset: 35, 114
+  index: -1
+img/starfx/starfx_011
+  rotate: false
+  xy: 91, 36
+  size: 91, 83
+  orig: 169, 301
+  offset: 35, 111
+  index: -1
+img/starfx/starfx_012
+  rotate: false
+  xy: 2, 127
+  size: 98, 83
+  orig: 169, 301
+  offset: 36, 111
+  index: -1
+img/starfx/starfx_013
+  rotate: false
+  xy: 334, 497
+  size: 97, 82
+  orig: 169, 301
+  offset: 37, 111
+  index: -1
+img/starfx/starfx_014
+  rotate: false
+  xy: 433, 498
+  size: 95, 81
+  orig: 169, 301
+  offset: 38, 111
+  index: -1
+img/starfx/starfx_015
+  rotate: false
+  xy: 334, 416
+  size: 93, 79
+  orig: 169, 301
+  offset: 39, 112
+  index: -1
+img/starfx/starfx_016
+  rotate: false
+  xy: 191, 358
+  size: 91, 78
+  orig: 169, 301
+  offset: 40, 112
+  index: -1
+img/starfx/starfx_017
+  rotate: true
+  xy: 185, 122
+  size: 89, 76
+  orig: 169, 301
+  offset: 41, 113
+  index: -1
+img/starfx/starfx_018
+  rotate: true
+  xy: 256, 268
+  size: 88, 74
+  orig: 169, 301
+  offset: 41, 114
+  index: -1
+img/starfx/starfx_019
+  rotate: true
+  xy: 495, 105
+  size: 78, 75
+  orig: 169, 301
+  offset: 50, 113
+  index: -1
+img/starfx/starfx_020
+  rotate: false
+  xy: 490, 25
+  size: 77, 77
+  orig: 169, 301
+  offset: 50, 110
+  index: -1
+img/starfx/starfx_021
+  rotate: true
+  xy: 497, 258
+  size: 77, 75
+  orig: 169, 301
+  offset: 48, 111
+  index: -1
+img/starfx/starfx_022
+  rotate: false
+  xy: 332, 261
+  size: 84, 75
+  orig: 169, 301
+  offset: 42, 111
+  index: -1
+img/starfx/starfx_023
+  rotate: false
+  xy: 332, 338
+  size: 86, 76
+  orig: 169, 301
+  offset: 39, 111
+  index: -1
+img/starfx/starfx_024
+  rotate: false
+  xy: 332, 186
+  size: 83, 73
+  orig: 169, 301
+  offset: 41, 112
+  index: -1
+img/starfx/starfx_025
+  rotate: false
+  xy: 330, 106
+  size: 82, 78
+  orig: 169, 301
+  offset: 42, 106
+  index: -1
+img/starfx/starfx_026
+  rotate: false
+  xy: 414, 104
+  size: 79, 79
+  orig: 169, 301
+  offset: 44, 105
+  index: -1
+img/starfx/starfx_027
+  rotate: false
+  xy: 184, 41
+  size: 77, 78
+  orig: 169, 301
+  offset: 45, 106
+  index: -1
+img/starfx/starfx_028
+  rotate: true
+  xy: 500, 422
+  size: 74, 79
+  orig: 169, 301
+  offset: 47, 106
+  index: -1
+img/starfx/starfx_029
+  rotate: false
+  xy: 263, 109
+  size: 65, 77
+  orig: 169, 301
+  offset: 49, 107
+  index: -1

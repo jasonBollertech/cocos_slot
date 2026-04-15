@@ -1,0 +1,118 @@
+
+amg_board.png
+size: 776,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/frame1
+  rotate: false
+  xy: 2, 2
+  size: 131, 85
+  orig: 1040, 203
+  offset: 143, 63
+  index: -1
+img/frame2
+  rotate: true
+  xy: 2, 89
+  size: 133, 85
+  orig: 1040, 203
+  offset: 762, 63
+  index: -1
+img/frame3
+  rotate: false
+  xy: 251, 16
+  size: 489, 12
+  orig: 1040, 203
+  offset: 274, 126
+  index: -1
+img/front
+  rotate: false
+  xy: 251, 30
+  size: 522, 63
+  orig: 1040, 203
+  offset: 258, 64
+  index: -1
+img/glow
+  rotate: false
+  xy: 381, 166
+  size: 387, 56
+  orig: 520, 102
+  offset: 66, 24
+  index: -1
+img/sweep/sweep_02
+  rotate: true
+  xy: 194, 15
+  size: 77, 55
+  orig: 400, 75
+  offset: 5, 11
+  index: -1
+img/sweep/sweep_03
+  rotate: false
+  xy: 488, 103
+  size: 97, 61
+  orig: 400, 75
+  offset: 8, 8
+  index: -1
+img/sweep/sweep_04
+  rotate: true
+  xy: 261, 106
+  size: 116, 63
+  orig: 400, 75
+  offset: 12, 6
+  index: -1
+img/sweep/sweep_05
+  rotate: true
+  xy: 89, 93
+  size: 129, 63
+  orig: 400, 75
+  offset: 22, 5
+  index: -1
+img/sweep/sweep_06
+  rotate: true
+  xy: 205, 95
+  size: 127, 54
+  orig: 400, 75
+  offset: 47, 14
+  index: -1
+img/sweep/sweep_07
+  rotate: true
+  xy: 154, 94
+  size: 128, 49
+  orig: 400, 75
+  offset: 69, 19
+  index: -1
+img/sweep/sweep_14
+  rotate: true
+  xy: 326, 106
+  size: 116, 53
+  orig: 400, 75
+  offset: 233, 15
+  index: -1
+img/sweep/sweep_15
+  rotate: false
+  xy: 587, 104
+  size: 110, 60
+  orig: 400, 75
+  offset: 256, 9
+  index: -1
+img/sweep/sweep_16
+  rotate: false
+  xy: 381, 98
+  size: 105, 66
+  orig: 400, 75
+  offset: 279, 3
+  index: -1
+img/sweep/sweep_17
+  rotate: true
+  xy: 135, 4
+  size: 87, 57
+  orig: 400, 75
+  offset: 302, 8
+  index: -1
+img/sweep/sweep_18
+  rotate: false
+  xy: 699, 121
+  size: 71, 43
+  orig: 400, 75
+  offset: 322, 9
+  index: -1

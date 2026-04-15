@@ -1,0 +1,20 @@
+
+amg_fgngfx.png
+size: 46,23
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold
+  rotate: false
+  xy: 26, 3
+  size: 18, 18
+  orig: 25, 25
+  offset: 4, 3
+  index: -1
+goldstar
+  rotate: false
+  xy: 2, 2
+  size: 22, 19
+  orig: 30, 30
+  offset: 4, 5
+  index: -1

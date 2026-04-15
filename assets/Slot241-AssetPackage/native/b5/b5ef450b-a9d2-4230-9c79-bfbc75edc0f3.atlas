@@ -1,0 +1,13 @@
+
+amg_plus.png
+size: 524,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+plus
+  rotate: false
+  xy: 2, 2
+  size: 518, 232
+  orig: 524, 236
+  offset: 2, 2
+  index: -1

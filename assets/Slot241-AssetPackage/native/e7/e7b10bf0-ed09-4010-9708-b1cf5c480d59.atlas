@@ -1,0 +1,118 @@
+
+amg_symbols.png
+size: 576,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img/blue
+  rotate: false
+  xy: 211, 8
+  size: 67, 68
+  orig: 123, 95
+  offset: 28, 13
+  index: -1
+img/green
+  rotate: true
+  xy: 343, 13
+  size: 63, 52
+  orig: 123, 95
+  offset: 30, 21
+  index: -1
+img/m1_1
+  rotate: true
+  xy: 489, 54
+  size: 55, 61
+  orig: 163, 125
+  offset: 81, 15
+  index: -1
+img/m1_2
+  rotate: false
+  xy: 433, 126
+  size: 50, 62
+  orig: 163, 125
+  offset: 31, 16
+  index: -1
+img/m1_3
+  rotate: false
+  xy: 376, 95
+  size: 55, 93
+  orig: 163, 125
+  offset: 56, 20
+  index: -1
+img/m1_board
+  rotate: true
+  xy: 2, 78
+  size: 110, 92
+  orig: 163, 125
+  offset: 27, 15
+  index: -1
+img/m2
+  rotate: false
+  xy: 397, 3
+  size: 90, 90
+  orig: 163, 125
+  offset: 39, 19
+  index: -1
+img/m2_board
+  rotate: true
+  xy: 96, 78
+  size: 110, 92
+  orig: 163, 125
+  offset: 27, 15
+  index: -1
+img/m3
+  rotate: true
+  xy: 489, 111
+  size: 77, 85
+  orig: 163, 125
+  offset: 44, 18
+  index: -1
+img/m3_board
+  rotate: true
+  xy: 190, 78
+  size: 110, 91
+  orig: 163, 125
+  offset: 27, 15
+  index: -1
+img/m4
+  rotate: false
+  xy: 2, 2
+  size: 67, 74
+  orig: 163, 125
+  offset: 49, 25
+  index: -1
+img/m4_2
+  rotate: false
+  xy: 489, 3
+  size: 49, 49
+  orig: 163, 125
+  offset: 47, 25
+  index: -1
+img/m4_board
+  rotate: true
+  xy: 283, 78
+  size: 110, 91
+  orig: 163, 125
+  offset: 27, 15
+  index: -1
+img/purple
+  rotate: false
+  xy: 280, 8
+  size: 61, 68
+  orig: 123, 95
+  offset: 31, 13
+  index: -1
+img/red
+  rotate: true
+  xy: 71, 7
+  size: 69, 68
+  orig: 123, 95
+  offset: 27, 14
+  index: -1
+img/yellow
+  rotate: false
+  xy: 141, 8
+  size: 68, 68
+  orig: 123, 95
+  offset: 27, 14
+  index: -1

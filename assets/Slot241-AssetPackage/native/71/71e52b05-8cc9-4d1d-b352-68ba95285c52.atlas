@@ -1,0 +1,363 @@
+
+amg_wife.png
+size: 1470,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 837, 58
+  size: 62, 128
+  orig: 321, 660
+  offset: 223, 465
+  index: -1
+arm_R
+  rotate: false
+  xy: 141, 74
+  size: 118, 193
+  orig: 321, 660
+  offset: 60, 383
+  index: -1
+arm_dL
+  rotate: false
+  xy: 798, 45
+  size: 37, 75
+  orig: 321, 660
+  offset: 212, 474
+  index: -1
+ballL
+  rotate: false
+  xy: 141, 58
+  size: 14, 14
+  orig: 321, 660
+  offset: 187, 605
+  index: -1
+ballR
+  rotate: true
+  xy: 157, 58
+  size: 14, 13
+  orig: 321, 660
+  offset: 165, 605
+  index: -1
+body
+  rotate: false
+  xy: 2, 58
+  size: 137, 209
+  orig: 321, 660
+  offset: 118, 391
+  index: -1
+earringL
+  rotate: true
+  xy: 178, 27
+  size: 8, 12
+  orig: 321, 660
+  offset: 200, 592
+  index: -1
+earringR
+  rotate: true
+  xy: 178, 37
+  size: 9, 12
+  orig: 321, 660
+  offset: 158, 592
+  index: -1
+eye_li
+  rotate: false
+  xy: 178, 48
+  size: 15, 9
+  orig: 35, 17
+  offset: 10, 4
+  index: -1
+finger2
+  rotate: false
+  xy: 716, 6
+  size: 16, 31
+  orig: 321, 660
+  offset: 243, 578
+  index: -1
+finger3
+  rotate: true
+  xy: 752, 14
+  size: 23, 20
+  orig: 321, 660
+  offset: 239, 578
+  index: -1
+finger4
+  rotate: true
+  xy: 734, 9
+  size: 28, 16
+  orig: 321, 660
+  offset: 241, 574
+  index: -1
+finger5
+  rotate: false
+  xy: 172, 59
+  size: 21, 13
+  orig: 321, 660
+  offset: 248, 568
+  index: -1
+firefx/firefx_00
+  rotate: true
+  xy: 1362, 149
+  size: 37, 49
+  orig: 44, 54
+  offset: 5, 5
+  index: -1
+firefx/firefx_01
+  rotate: true
+  xy: 1362, 230
+  size: 37, 50
+  orig: 44, 54
+  offset: 5, 4
+  index: -1
+firefx/firefx_02
+  rotate: true
+  xy: 417, 75
+  size: 38, 51
+  orig: 44, 54
+  offset: 4, 3
+  index: -1
+firefx/firefx_03
+  rotate: true
+  xy: 470, 75
+  size: 38, 51
+  orig: 44, 54
+  offset: 4, 3
+  index: -1
+firefx/firefx_04
+  rotate: false
+  xy: 92, 3
+  size: 41, 53
+  orig: 44, 54
+  offset: 1, 1
+  index: -1
+firefx/firefx_05
+  rotate: true
+  xy: 261, 74
+  size: 39, 53
+  orig: 44, 54
+  offset: 3, 1
+  index: -1
+firefx/firefx_06
+  rotate: false
+  xy: 851, 3
+  size: 40, 53
+  orig: 44, 54
+  offset: 2, 1
+  index: -1
+firefx/firefx_07
+  rotate: false
+  xy: 135, 3
+  size: 41, 53
+  orig: 44, 54
+  offset: 2, 1
+  index: -1
+firefx/firefx_08
+  rotate: false
+  xy: 2, 2
+  size: 43, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+firefx/firefx_09
+  rotate: false
+  xy: 47, 3
+  size: 43, 53
+  orig: 44, 54
+  offset: 0, 1
+  index: -1
+firefx/firefx_10
+  rotate: false
+  xy: 893, 4
+  size: 43, 52
+  orig: 44, 54
+  offset: 0, 1
+  index: -1
+firefx/firefx_11
+  rotate: false
+  xy: 938, 4
+  size: 42, 52
+  orig: 44, 54
+  offset: 1, 1
+  index: -1
+firefx/firefx_12
+  rotate: true
+  xy: 798, 2
+  size: 41, 51
+  orig: 44, 54
+  offset: 1, 2
+  index: -1
+firefx/firefx_13
+  rotate: false
+  xy: 982, 18
+  size: 41, 50
+  orig: 44, 54
+  offset: 1, 2
+  index: -1
+firefx/firefx_14
+  rotate: false
+  xy: 967, 70
+  size: 42, 50
+  orig: 44, 54
+  offset: 0, 3
+  index: -1
+firefx/firefx_15
+  rotate: true
+  xy: 1362, 188
+  size: 40, 49
+  orig: 44, 54
+  offset: 2, 3
+  index: -1
+firefx/firefx_16
+  rotate: false
+  xy: 1011, 70
+  size: 40, 50
+  orig: 44, 54
+  offset: 2, 3
+  index: -1
+firefx/firefx_17
+  rotate: true
+  xy: 1414, 187
+  size: 42, 49
+  orig: 44, 54
+  offset: 0, 3
+  index: -1
+firefx/firefx_18
+  rotate: true
+  xy: 316, 74
+  size: 39, 49
+  orig: 44, 54
+  offset: 1, 4
+  index: -1
+firefx/firefx_19
+  rotate: true
+  xy: 367, 74
+  size: 39, 48
+  orig: 44, 54
+  offset: 1, 4
+  index: -1
+firefx/firefx_20
+  rotate: true
+  xy: 1413, 148
+  size: 37, 49
+  orig: 44, 54
+  offset: 3, 4
+  index: -1
+firefx/firefx_21
+  rotate: true
+  xy: 1413, 110
+  size: 36, 49
+  orig: 44, 54
+  offset: 4, 4
+  index: -1
+firefx/firefx_22
+  rotate: true
+  xy: 1414, 231
+  size: 36, 50
+  orig: 44, 54
+  offset: 4, 4
+  index: -1
+firefx/firefx_23
+  rotate: true
+  xy: 1362, 110
+  size: 37, 49
+  orig: 44, 54
+  offset: 4, 4
+  index: -1
+firefx/firefx_24
+  rotate: false
+  xy: 1334, 60
+  size: 38, 48
+  orig: 44, 54
+  offset: 4, 5
+  index: -1
+firefx/firefx_25
+  rotate: true
+  xy: 1374, 70
+  size: 38, 46
+  orig: 44, 54
+  offset: 4, 7
+  index: -1
+firefx/firefx_26
+  rotate: false
+  xy: 1374, 22
+  size: 37, 46
+  orig: 44, 54
+  offset: 5, 7
+  index: -1
+firefx/firefx_27
+  rotate: true
+  xy: 1413, 31
+  size: 37, 46
+  orig: 44, 54
+  offset: 5, 7
+  index: -1
+firefx/firefx_28
+  rotate: false
+  xy: 1334, 11
+  size: 38, 47
+  orig: 44, 54
+  offset: 5, 6
+  index: -1
+firefx/firefx_29
+  rotate: true
+  xy: 1422, 70
+  size: 38, 46
+  orig: 44, 54
+  offset: 5, 7
+  index: -1
+hair_bk
+  rotate: true
+  xy: 523, 5
+  size: 108, 128
+  orig: 321, 660
+  offset: 119, 502
+  index: -1
+head
+  rotate: true
+  xy: 716, 39
+  size: 81, 80
+  orig: 321, 660
+  offset: 143, 579
+  index: -1
+leg_L2_2
+  rotate: true
+  xy: 195, 4
+  size: 68, 321
+  orig: 321, 660
+  offset: 124, 123
+  index: -1
+leg_L3
+  rotate: true
+  xy: 653, 3
+  size: 117, 61
+  orig: 321, 660
+  offset: 100, 379
+  index: -1
+leg_R
+  rotate: true
+  xy: 1020, 130
+  size: 137, 340
+  orig: 321, 660
+  offset: 82, 74
+  index: -1
+skirt
+  rotate: true
+  xy: 261, 115
+  size: 152, 363
+  orig: 321, 660
+  offset: 102, 107
+  index: -1
+skirt_L
+  rotate: true
+  xy: 626, 122
+  size: 145, 392
+  orig: 321, 660
+  offset: 136, 79
+  index: -1
+wing
+  rotate: true
+  xy: 1053, 9
+  size: 119, 279
+  orig: 321, 660
+  offset: 173, 268
+  index: -1
